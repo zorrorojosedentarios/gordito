@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff00ff00Gordito|r
+## Notes: Gestiona tus festines, evita clics innecesarios y rastrea quién falta por comer.
+## Author: zorrorojo (Sedentarios)
+## Version: 2.2
+## SavedVariables: GorditoDB
+
+gordito.lua
