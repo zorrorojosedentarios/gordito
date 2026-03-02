@@ -30,7 +30,6 @@ Dentro del panel podrás ajustar:
 
 ## 📄 Notas Técnicas
 - Compatible con **Festín de Pescado**, **Gran Festín** y **Festín Abundante**.
-- Registrado con `UISpecialFrames` para permitir el cierre con la tecla **Escape**.
-
 ---
 **Desarrollado por:** zorrorojo (Sedentarios)
+
