@@ -1,0 +1,9 @@
+﻿## Interface: 30300
+## Title: !|cff00ffffAddon Naer|r |cff33ff33[Gordito]|r
+## Notes: Gestiona tus festines, evita clics innecesarios y rastrea quién falta por comer.
+## Author: Zorrorojo/Miabuelita (Guild Sedentarios)
+## Version: 2.3
+## SavedVariables: GorditoDB
+## X-Part-Of: !|cff00ffffAddon Naer|r
+
+gordito.lua
